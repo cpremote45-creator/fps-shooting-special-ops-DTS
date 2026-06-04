@@ -1,0 +1,48 @@
+{
+  "apps": [
+ 
+    {
+      "name": "AirPlane Simulator",
+      "packageName": "com.kick.flight.pilot.airplane.games",
+      "targetAsin": "B0BFQPLZS1",
+      "storeUrl": "https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
+      "rewardedVideoURL": "https://files.catbox.moe/mxgsjt.mp4"
+    },
+  
+    {
+      "name": "Worm Clash",
+      "packageName": "com.worm.snake.clah.mm",
+      "targetAsin": "B0GYPZJ4R2",
+      "storeUrl": "https://www.amazon.com/Clash-Battle-Arena-Survive-Ultimate/dp/B0GYPZJ4R2",
+      "rewardedVideoURL": "https://files.catbox.moe/9986hg.mp4"
+    },
+    {
+      "name": "Dino Hunting",
+      "packageName": "com.dino.family.simulator.hunt",
+      "targetAsin": "B0GHNNSRLC",
+      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
+      "rewardedVideoURL": "https://files.catbox.moe/lzm1lb.mp4"
+    },
+     {
+      "name": "Worm Clash",
+      "packageName": "com.worm.snake.clah.mm",
+      "targetAsin": "B0GYPZJ4R2",
+      "storeUrl": "https://www.amazon.com/Clash-Battle-Arena-Survive-Ultimate/dp/B0GYPZJ4R2",
+      "rewardedVideoURL": "https://files.catbox.moe/zms12c.mp4"
+    },
+    {
+      "name": "AirPlane Simulator",
+      "packageName": "com.ikk.flight.pilot.airplane.games",
+      "targetAsin": "B0BFQPLZS1",
+      "storeUrl": "https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
+      "rewardedVideoURL": "https://files.catbox.moe/8odv11.mp4"
+    },
+  {
+      "name": "Dino Hunting",
+      "packageName": "com.dino.family.simulator.hunt",
+      "targetAsin": "B0GHNNSRLC",
+      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
+      "rewardedVideoURL": "https://files.catbox.moe/zapmbp.mp4"
+    }
+  ]
+}

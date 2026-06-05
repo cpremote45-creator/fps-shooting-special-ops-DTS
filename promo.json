@@ -2,11 +2,11 @@
   "apps": [
  
     {
-      "name": "AirPlane Simulator",
-      "packageName": "com.kick.flight.pilot.airplane.games",
-      "targetAsin": "B0BFQPLZS1",
-      "storeUrl": "https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
-      "rewardedVideoURL": "https://files.catbox.moe/mxgsjt.mp4"
+      "name": "ABC Kids Learning",
+      "packageName": "com.word.basic.education.learning.kids.fyr",
+      "targetAsin": "B0GX2QZ4QQ",
+      "storeUrl": "https://www.amazon.com/ABC-Kids-Learning-Trace-Letters/dp/B0GX2QZ4QQ",
+      "rewardedVideoURL": "https://files.catbox.moe/zr23tn.mp4"
     },
   
     {

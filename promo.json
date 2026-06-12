@@ -10,11 +10,11 @@
     },
   
     {
-      "name": "ABC Kids Learning",
-      "packageName": "com.word.basic.education.learning.kids.fyr",
-      "targetAsin": "B0GX2QZ4QQ",
-      "storeUrl": "https://www.amazon.com/ABC-Kids-Learning-Trace-Letters/dp/B0GX2QZ4QQ",
-      "rewardedVideoURL": "https://files.catbox.moe/2yio6h.mp4"
+      "name": "Robot Transform Game",
+      "packageName": "com.robot.transform.car.scorpion.game.fyr",
+      "targetAsin": "B0H3VXY1YN",
+      "storeUrl": "https://www.amazon.com/Super-Transform-Action-Fighting-Missions/dp/B0H3VXY1YN",
+      "rewardedVideoURL": "https://files.catbox.moe/isyhb0.mp4"
     },
     {
       "name": "Dino Hunting",
